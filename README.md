@@ -1,1 +1,2 @@
 # dlmf-tutorial
+This is a repo containing code and data for a tutorial on using deep learning for mortality forecasting. Please DO NOT use the data provided here for anything beyond the tutorial. It is for demonstration purposes only. If you would like access to the full Human Mortality Database please visit www.mortality.org. 
